@@ -1,0 +1,7 @@
+OBJECT_SHARED Models/Communications/vordme_1.xml -48.465278 -1.368889 16.38 180
+OBJECT_SHARED Models/Airport/localizer.xml -48.465278 -1.368889 16.38 135.72
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -48.4937496 -1.2958197 -0.76 218.32
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -48.4915327 -1.3711573 -1.9 197
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -48.4997167 -1.3099003 -2.38 345.8
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -48.4939139 -1.3630043 -0.01 358.97
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -48.4932519 -1.3400238 -0.07 141.87
